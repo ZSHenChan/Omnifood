@@ -1,0 +1,69 @@
+/* UTILITIES */
+.mr-sm {
+  margin-right: 1.5rem !important;
+}
+.mr-xsm {
+  margin-right: 0.25rem !important;
+}
+.mb-sm {
+  margin-bottom: 1rem !important;
+}
+.mb-md {
+  margin-bottom: 3rem !important;
+}
+.mb-lg {
+  margin-bottom: 4.5rem !important;
+}
+.mb-xl {
+  margin-bottom: 6rem !important;
+}
+.grid {
+  display: grid;
+  gap: 5rem;
+}
+.grid-2-col {
+  grid-template-columns: 1fr 1fr;
+}
+.grid-3-col {
+  grid-template-columns: repeat(3, 1fr);
+}
+.grid-4-col {
+  grid-template-columns: repeat(4, 1fr);
+}
+.container {
+  max-width: 90rem;
+  margin: 0 auto;
+}
+.container .subheading {
+  display: block;
+  color: #e8590c;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+.h1 {
+  font-size: 3.052rem;
+}
+.h2 {
+  font-size: 2.441rem;
+}
+.h3 {
+  font-size: 1.953rem;
+}
+.p1 {
+  font-size: 1.563rem;
+}
+.p2 {
+  font-size: 1rem;
+}
+.align-text-center {
+  text-align: center !important;
+}
+.default-wrapper {
+  padding: 5rem 10rem;
+}
+
+*:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.6rem rgba(123, 48, 8, 0.5);
+}
