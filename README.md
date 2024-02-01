@@ -1,2 +1,5 @@
-This repo it built based on HTML and CSS only
-link to the website: https://omnifood-zhen-demo.netlify.app/
+# Omnifood - Meal Subscription Landing Page
+
+- used pure html and css
+
+live url: https://omnifood-zhen-demo.netlify.app/
